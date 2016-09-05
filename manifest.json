@@ -16,11 +16,6 @@
     "storage"
   ],
 
-   "background": {
-    "scripts": ["background.js"],
-    "persistant": false
-  },
-
   "content_scripts": [
   	{
   		"matches": ["http://play.pokemonshowdown.com/*"],
